@@ -6,7 +6,8 @@ years. When I start a new Java project I clone this repository, remove
 sections of build.xml that I don't care about for that particular
 project, set the project properties, clear out the sample sources, and
 get to work.
-
+## Added this comment to test push command effect
+## date 2/9/2020  8.35 pm
 ## Setup
 
 Building this project requires that Ivy be available to Ant. All you
